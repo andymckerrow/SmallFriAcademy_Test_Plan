@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import spreadsheet from './Small_Fry_Test_Cases.xlsx';
 
 class App extends Component {
   render() {
@@ -38,6 +39,7 @@ class App extends Component {
     <li>As a potential client I want to use the contact form so that I can start an email conversation about enrolling my child.</li>
     <li>As someone extremely concerned about internet security issues I want to use the site on the browser of my choice so that I can maintain my privacy.</li>
     <h2>Test Cases</h2>
+    <a href={spreadsheet} target="_blank">Download Here</a>
 
 
     
