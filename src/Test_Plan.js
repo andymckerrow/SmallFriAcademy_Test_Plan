@@ -41,7 +41,7 @@ class App extends Component {
     <h2>Test Cases</h2>
     <a href={spreadsheet} target="_blank">Download Here</a>
     <h2>Reporting</h2>
-    <p>Share Test Cases sheet with developer by October 9th.</p>
+    <p>Client requires that Test Cases sheet gets shared by October 9th. Further testing and reporting will likely be required after discussion of results.</p>
 
 
     
